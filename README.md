@@ -6,9 +6,8 @@ I work daily across Windows administration, VoIP/PBX deployment, networking and 
 
 ### Current focus
 
-- **[WinForge](https://github.com/LorenzoBoschi/WinForge)** — automated Windows workstation provisioning & inventory tool, with vendor-aware driver updates (Dell / HP / Lenovo). PowerShell, WinForms GUI, winget-based.
-- **[PCSnapshot](https://github.com/LorenzoBoschi/PCSnapshot)** — zero-install Windows system analyzer for IT technicians, full pre-migration audit packaged in a single EXE with desktop HTML report. Python + PyInstaller.
-- **[portfolio](https://github.com/LorenzoBoschi/portfolio)** — showcase of personal projects, including source-available code and technical write-ups of closed-source work.
+- **[Portable Claude](https://github.com/LorenzoBoschi/Portable-Claude-Showcase)** — complete Claude environment (CLI + desktop app) on a USB stick: runs on any Windows PC with zero install and zero traces left on the host, on a personal subscription instead of API keys. C#/.NET launcher, Electron, DPAPI-protected credentials.
+- **[BrAIn](https://github.com/LorenzoBoschi/BrAIn)** — fully local, private RAG assistant: ask questions about your own documents and get answers with verifiable citations — nothing ever leaves the machine. Hybrid semantic + BM25 retrieval, anti-hallucination relevance gate, 3D document graph, MCP server. Python + FastAPI + Ollama.
 
 ### Stack
 
