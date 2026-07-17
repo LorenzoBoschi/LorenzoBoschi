@@ -9,10 +9,16 @@ I work daily across Windows administration, VoIP/PBX deployment, networking and 
 - **[Portable Claude](https://github.com/LorenzoBoschi/Portable-Claude-Showcase)** — complete Claude environment (CLI + desktop app) on a USB stick: runs on any Windows PC with zero install and zero traces left on the host, on a personal subscription instead of API keys. C#/.NET launcher, Electron, DPAPI-protected credentials.
 - **[BrAIn](https://github.com/LorenzoBoschi/BrAIn)** — fully local, private RAG assistant: ask questions about your own documents and get answers with verifiable citations — nothing ever leaves the machine. Hybrid semantic + BM25 retrieval, anti-hallucination relevance gate, 3D document graph, MCP server. Python + FastAPI + Ollama.
 
+### AI & Automation
+
+- **Training** — Anthropic Academy, 9 courses (Claude API, Claude Code, agent skills, subagents, Cowork) · Make.com Academy, 7 courses · AWS ML/AI fundamentals
+- **Daily tooling** — Claude Code as primary development environment; custom MCP servers deployed locally for data-sensitive contexts
+- **Approach** — local-first and privacy-first: BrAIn runs fully offline, client data never touches third-party clouds
+
 ### Stack
 
-**Daily work** — Windows / Active Directory / Azure AD, PowerShell, Wildix PBX, NethServer 8, OpenVPN, Synology NAS  
-**Automation & AI** — Python, n8n (self-hosted), MCP (Model Context Protocol), Anthropic API, Claude Code  
+**AI & Automation** — Claude API, Claude Code, MCP (Model Context Protocol), agentic workflows, RAG (ChromaDB · Ollama · FastAPI), prompt engineering, Make.com, n8n  
+**Daily work** — Windows / Active Directory / Azure AD, PowerShell, Python, Wildix PBX, NethServer 8, OpenVPN, Synology NAS  
 **Currently studying** — Internal security audits, NIST CSF, C++, RISC-V assembly
 
 ### Background
